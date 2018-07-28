@@ -1,4 +1,7 @@
 This is the first commit file in git. This is to test whether or not using git, whether or not the changes are being made?
 That's so cool buddy. will catch you later
 
-ading new line to chk . tanks!.
+ading new line to chk . tanks!
+
+
+some more changes.

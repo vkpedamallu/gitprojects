@@ -1,0 +1,19 @@
+Script for ibus started at run_im.
+Script for auto started at run_im.
+Script for default started at run_im.
+init: upstart-event-bridge main process (2495) terminated with status 1
+init: upstart-event-bridge main process ended, respawning
+init: upstart-dbus-session-bridge main process (2528) terminated with status 1
+init: upstart-dbus-session-bridge main process ended, respawning
+init: upstart-dbus-system-bridge main process (2529) terminated with status 1
+init: upstart-dbus-system-bridge main process ended, respawning
+init: upstart-file-bridge main process (2530) terminated with status 1
+init: upstart-file-bridge main process ended, respawning
+init: upstart-event-bridge main process (26524) terminated with status 1
+init: upstart-event-bridge main process ended, respawning
+init: upstart-dbus-session-bridge main process (26529) terminated with status 1
+init: upstart-dbus-session-bridge main process ended, respawning
+init: upstart-dbus-system-bridge main process (26531) terminated with status 1
+init: upstart-dbus-system-bridge main process ended, respawning
+init: upstart-file-bridge main process (26540) terminated with status 1
+init: upstart-file-bridge main process ended, respawning
